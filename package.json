@@ -4,7 +4,7 @@
   "description": "LT Onion Slides with Slidev",
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build",
+    "build": "slidev build --base /LT-onion-architecture/",
     "export": "slidev export"
   },
   "dependencies": {
