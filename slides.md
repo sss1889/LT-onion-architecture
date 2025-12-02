@@ -1,6 +1,6 @@
 ---
 theme: default
-title: 全社標準バックエンドアーキテクチャ
+title: オニオンアーキテクチャについて
 info: |
   ## バックエンドアーキテクチャガイド
   DDDとオニオンアーキテクチャの実践
@@ -658,7 +658,7 @@ def get_user_usecase(db: Session = Depends(get_db)) -> UserUsecase:
 
 ---
 
-## アーキテクチャの恩恵：爆速テスト
+## アーキテクチャの恩恵：テスト
 
 <div class="grid grid-cols-2 gap-8">
 
