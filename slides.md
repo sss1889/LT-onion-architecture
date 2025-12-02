@@ -11,6 +11,7 @@ drawings:
 transition: slide-left
 mdc: true
 css: unocss
+favicon: '/starup-logo.png'
 ---
 
 <style src="./style.css"></style>
@@ -22,7 +23,7 @@ css: unocss
 </div>
 
 <div class="abs-br m-6 text-sm opacity-50">
-  2025.12.5 LT会
+  2025.12.3 LT会
 </div>
 
 
