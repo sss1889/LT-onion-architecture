@@ -1,0 +1,14 @@
+{
+  "name": "lt-onion-slides",
+  "version": "1.0.0",
+  "description": "LT Onion Slides with Slidev",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^52.10.1",
+    "@slidev/theme-default": "latest"
+  }
+}
